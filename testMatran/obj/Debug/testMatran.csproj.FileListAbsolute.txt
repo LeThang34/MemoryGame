@@ -1,0 +1,11 @@
+H:\Winform\LuyenTap\testMatran\bin\Debug\testMatran.exe.config
+H:\Winform\LuyenTap\testMatran\bin\Debug\testMatran.exe
+H:\Winform\LuyenTap\testMatran\bin\Debug\testMatran.pdb
+H:\Winform\LuyenTap\testMatran\obj\Debug\testMatran.csproj.AssemblyReference.cache
+H:\Winform\LuyenTap\testMatran\obj\Debug\testMatran.csproj.SuggestedBindingRedirects.cache
+H:\Winform\LuyenTap\testMatran\obj\Debug\testMatran.Form1.resources
+H:\Winform\LuyenTap\testMatran\obj\Debug\testMatran.Properties.Resources.resources
+H:\Winform\LuyenTap\testMatran\obj\Debug\testMatran.csproj.GenerateResource.cache
+H:\Winform\LuyenTap\testMatran\obj\Debug\testMatran.csproj.CoreCompileInputs.cache
+H:\Winform\LuyenTap\testMatran\obj\Debug\testMatran.exe
+H:\Winform\LuyenTap\testMatran\obj\Debug\testMatran.pdb
